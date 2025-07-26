@@ -23,7 +23,7 @@ This project is a dynamic web-based platform designed for restaurants to showcas
 ## 📦 Installation
 1. Clone the repository  
    ```bash
-   git clone https://github.com/hsendeeb/restaurants-online.git
+  https://github.com/hsendeeb/Restaurants-online.git
    ```
 2. Import the SQL file into your MySQL database  
 3. Update database credentials in the `/config/db.php` file  
